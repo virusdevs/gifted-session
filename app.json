@@ -1,8 +1,8 @@
 {
-    "name": "Gifted Session Generator",
+    "name": "Virusi Session Generator",
     "description": "Web Session Generator",
     "logo": "https://files.catbox.moe/52699c.jpg",
-    "repository": "https://github.com/mauricegift/gifted-sess",
+    "repository": "https://github.com/virusdevs/gifted-sess",
     "keywords": ["Gifted-Tech"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
@@ -13,5 +13,6 @@
         "required": false 
       }
     }   
+
 
 }
